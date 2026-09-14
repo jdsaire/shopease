@@ -4,7 +4,7 @@ Three ways to see this app, from least to most setup.
 
 ## 1. Live GitHub Pages URL (No Setup)
 
-**https://jdsaire.github.io/frontend_c6_ecommerce/**
+**https://jdsaire.github.io/shopease/**
 
 Click "Products" to browse the storefront and add items to your cart.
 Activity 1's test page, `/cart-test`, still exists and still runs its
@@ -49,8 +49,8 @@ host.
 2. Clone the repository and open the folder in VS Code:
 
    ```bash
-   git clone https://github.com/jdsaire/frontend_c6_ecommerce.git
-   cd frontend_c6_ecommerce
+   git clone https://github.com/jdsaire/shopease.git
+   cd shopease
    code .
    ```
 

@@ -131,7 +131,7 @@ however a particular page decides to gate it.
 **A note on how those links are written, because getting it wrong broke the deployed
 site**: every "Sign in" link above uses a **base-relative** href (`href="login"`, not
 `href="/login"`). GitHub Pages serves this app under a subpath
-(`/frontend_c6_ecommerce/`), which `wwwroot/index.html`'s `<base href>` tag points at —
+(`/shopease/`), which `wwwroot/index.html`'s `<base href>` tag points at —
 but only in the CI-built output; the tracked source keeps `<base href="/" />` so local
 runs stay simple. A leading-slash href ignores `<base href>` entirely and resolves
 against the site's actual root instead, which is exactly what happened the first time

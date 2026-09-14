@@ -16,7 +16,7 @@ Activity 1 or 2's graded code.
 
 ## See It Live
 
-**https://jdsaire.github.io/frontend_c6_ecommerce/**
+**https://jdsaire.github.io/shopease/**
 
 Click "Products" to browse the storefront: filter by category, sort by
 price, reveal more with "Show more", and add items to your cart. Activity 1's original test page still
