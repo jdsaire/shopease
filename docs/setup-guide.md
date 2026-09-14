@@ -22,8 +22,8 @@ instead of a real MySQL server.
 ## First-Time Setup
 
 ```bash
-git clone https://github.com/jdsaire/frontend_c6_ecommerce.git
-cd frontend_c6_ecommerce
+git clone https://github.com/jdsaire/shopease.git
+cd shopease
 dotnet build src/ShopEase
 ```
 

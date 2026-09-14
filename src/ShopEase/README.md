@@ -56,5 +56,5 @@ viewed in a browser like every other page here. Either of these gets it running:
    `/cart-test` or `/products`.
 
 Both paths run against the tracked `wwwroot/index.html`, which keeps
-`<base href="/" />` — the `/frontend_c6_ecommerce/` subpath rewrite only
+`<base href="/" />` — the `/shopease/` subpath rewrite only
 happens inside the GitHub Pages CI workflow, never in this source.
